@@ -1,11 +1,1 @@
-# Build Your Own World Design Document
-
-**Partner 1:**
-
-**Partner 2:**
-
-## Classes and Data Structures
-
-## Algorithms
-
-## Persistence
+Developed BYOW, a graph theory-based game engine that generates random 2D worlds for exploration. Implemented a controllable character with an interactive UI to display the game state. Emphasized graph theory principles to design and navigate the game world efficiently. Resulted in an engaging and immersive gaming experience.
